@@ -1,1 +1,1 @@
-# IBM_ML-mental_fitness-tracker
+# IBM_AI-mental_fitness-tracker
